@@ -1,2 +1,14 @@
 streamlit
 openai
+langchain
+langchain-openai
+langchain-community
+python-dotenv
+numpy
+pydantic
+typing-extensions
+faiss-cpu
+rank-bm25
+tiktoken
+pypdf
+rank_bm25
